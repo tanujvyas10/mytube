@@ -1,0 +1,45 @@
+body
+{
+margin:0px;
+padding:0px;
+background-color:#fff;
+color:#333;
+font-family:century gothic;
+font-size:12px;
+}
+#table1
+{
+border-collapse:collapse;
+border:1px solid #ccc;
+padding:30px;
+background-color:#f5f5f5;
+width:30%;
+margin:50px auto;
+}
+td
+{
+font-size:16px;
+padding:10px 15px;
+}
+a
+{
+text-decoration:none;
+}
+.h3
+{
+color:#333;
+font-weight:bold;
+}
+.textbox
+{
+width:250px;
+height:26px;
+border-color:1px solid #ccc;
+float:right;
+}
+#button
+{
+font-size:14px;
+padding:5px;
+text-align:center;
+}
